@@ -1,0 +1,30 @@
+{
+  "name": "sample-mypluralize",
+  "version": "0.0.1",
+  "description": "Create an simple Typescript package that returns the plural form of any noun",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayKay24/mypluralize.git"
+  },
+  "author": "Jimmy K Njuguna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayKay24/mypluralize/issues"
+  },
+  "homepage": "https://github.com/JayKay24/mypluralize#readme",
+  "devDependencies": {
+    "@types/pluralize": "0.0.29",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2",
+    "typescript": "^3.3.4000"
+  },
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  }
+}
