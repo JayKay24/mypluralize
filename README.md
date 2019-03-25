@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JayKay24/mypluralize.svg?branch=master)](https://travis-ci.org/JayKay24/mypluralize)
+[![Coverage Status](https://coveralls.io/repos/github/JayKay24/mypluralize/badge.svg?branch=master)](https://coveralls.io/github/JayKay24/mypluralize?branch=master)
 # sample-mypluralize
 Create a simple Typescript package. A node.js module that returns the plural form
 of any noun.

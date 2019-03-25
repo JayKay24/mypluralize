@@ -2,8 +2,8 @@
   "name": "sample-mypluralize",
   "version": "0.0.1",
   "description": "Create an simple Typescript package that returns the plural form of any noun",
-  "main": "dist/dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/lib/index.js",
+  "types": "dist/lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "mocha --reporter spec",
