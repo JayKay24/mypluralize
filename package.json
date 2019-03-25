@@ -2,7 +2,7 @@
   "name": "sample-mypluralize",
   "version": "0.0.1",
   "description": "Create an simple Typescript package that returns the plural form of any noun",
-  "main": "dist/index.js",
+  "main": "dist/dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
